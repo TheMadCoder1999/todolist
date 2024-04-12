@@ -86,10 +86,3 @@ function newItem(){
     // 	}
        $('#list').sortable();
     */
-    
-    
-    
-    
-    
-    
-    
